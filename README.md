@@ -7,7 +7,7 @@ This course is part of a MIT Micromasters program: [Statistics and Data Science 
 ## Project description:
 - **Project 0**: Setup, Numpy Exercises, Tutorial on Common Packages
 - **Project 1**: Sentiment analysis, using bag of words feature engineering and linear classification algorithms: Perceptron, averaged Perceptron and Pegasus
-- **Project 2**:
+- **Project 2**: Digit recognition, using a variaty of image feature mapping techniques (PCA, kernel functions (cubic, Gaussian RBF) ) and classification techniques (Linear regression using digit as targets, SVMs and Softmax Regression)
 - **Project 3**:
 - **Project 4**:
 - **Project 5**:
